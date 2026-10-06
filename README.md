@@ -1,1 +1,1 @@
-# Responsive-Product-Pricing-Cards
+# responsive-product
